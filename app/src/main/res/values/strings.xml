@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PDM</string>
+
+    <string name="mapbox_access_token">sk.eyJ1IjoicmF5ZW5ibiIsImEiOiJjbTRiYjhoNWswMWxoMmxxdm9oNWt0cDZ2In0.sIrAfAH8uOm5oqvKgvYQzQ</string>
+</resources>

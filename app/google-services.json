@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "886080030381",
+    "project_id": "pdm-chat-1ba54",
+    "storage_bucket": "pdm-chat-1ba54.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886080030381:android:dfbadef9ec07b6c505a824",
+        "android_client_info": {
+          "package_name": "tn.esprit.pdm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK_1f7jjuM2KFBx7C0IIO7HhaaBCBMA14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
